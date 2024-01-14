@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning HTML, CSS, JS, NodeJS, Python.
 - 📫 How to reach me? Email - jaymondmach@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: HTML was my first ever coding language I learned and my favorite.
+- ⚡ Fun fact: HTML was my first ever coding language I learned and is my favorite.
