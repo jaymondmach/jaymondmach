@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Jaymond
-<h2>👨🏻‍💻 Frontend Web Developer</h2>
-<h2>👨🏻‍🎓 Studying Computer Info Tech at <a href="https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/#overview">British Columbia Institute of Technology</a>, Vancouver BC</h2>
-<h2>🎮 I like to play video games on my free time. Some games I enjoy are <a href="https://playvalorant.com/en-us/">VALORANT</a>, and <a href="https://www.leagueoflegends.com/en-us/">League of Legends</a></h2>
-<h2>💭 I have a great desire to learn and build Frontend Web Applications</h2>
+## 👋 Hi, I'm Jaymond
+👨🏻‍💻 Frontend Web Developer</br>
+👨🏻‍🎓 Studying Computer Info Tech at <a href="https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/#overview">British Columbia Institute of Technology</a>, Vancouver BC</br>
+🎮 I like to play video games on my free time. Some games I enjoy are <a href="https://playvalorant.com/en-us/">VALORANT</a>, and <a href="https://www.leagueoflegends.com/en-us/">League of Legends</a></br>
+💭 I have a great desire to learn and build Frontend Web Applications</br>
 
 
 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -34,20 +34,20 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 💻 Github Stat's
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaymondmach&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="1100">
+## 💻 Github Stat's
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaymondmach&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="600">
 </div>
 
 
-# 💻 Discord
-<div> 
+## 💻 Discord
+<div align="center"> 
   <a href="https://discord.com/users/993423120658604133">
-    <img src="https://lanyard.cnrad.dev/api/993423120658604133?bg=474B50" alt="Discord Presence" width="1100">
+    <img src="https://lanyard.cnrad.dev/api/993423120658604133?bg=474B50" alt="Discord Presence" width="600">
   </a>
 </div>
 
-# 💻 Github Calender
-<img src="https://github.com/user-attachments/assets/05bc8b57-3926-4cc5-b0dc-e15cb92fdc13" width="1100" />
-
-
+## 💻 Github Calender
+<div align="center"> 
+<img src="https://github.com/user-attachments/assets/05bc8b57-3926-4cc5-b0dc-e15cb92fdc13" width="600">
+</div>
