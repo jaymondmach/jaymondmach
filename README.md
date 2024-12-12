@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Jaymond
-👨🏻‍💻 Frontend Web Developer</br>
-👨🏻‍🎓 Studying Computer Info Tech at [British Columbia Institute of Technology](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/#overview), Vancouver BC</br>
-🎮 I like to play video games on my free time. Some games I enjoy are [VALORANT](https://playvalorant.com/en-us/), and [League of Legends](https://www.leagueoflegends.com/en-us/)</br>
-💭 I have a great desire to learn and build Frontend Web App's</br>
+<h2>👨🏻‍💻 Frontend Web Developer</h2>
+<h2>👨🏻‍🎓 Studying Computer Info Tech at <a href="https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/#overview">British Columbia Institute of Technology</a>, Vancouver BC</h2>
+<h2>🎮 I like to play video games on my free time. Some games I enjoy are <a href="https://playvalorant.com/en-us/">VALORANT</a>, and <a href="https://www.leagueoflegends.com/en-us/">League of Legends</a></h2>
+<h2>💭 I have a great desire to learn and build Frontend Web Applications</h2>
 
-<div align="center">
+
+
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,4 +49,4 @@
 
 # 💻 Github Calender
 ![image](https://github.com/user-attachments/assets/05bc8b57-3926-4cc5-b0dc-e15cb92fdc13)
-</div>
+
