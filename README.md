@@ -34,7 +34,7 @@
 
 # 💻 Github Stat's
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaymondmach&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="jaymondmach's Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaymondmach&theme=dracula&show_icons=true&hide_border=true&count_private=true">
 </div>
 
 
@@ -45,5 +45,6 @@
   </a>
 </div>
 
+# 💻 Github Calender
+![image](https://github.com/user-attachments/assets/05bc8b57-3926-4cc5-b0dc-e15cb92fdc13)
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/jaymondmach)
