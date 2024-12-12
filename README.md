@@ -5,4 +5,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: JavaScript is my favorite programming language.
 
-![jaymondmach's Stats](https://github-readme-stats.vercel.app/api?username=jaymondmach&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaymondmach&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="jaymondmach's Stats">
+</div>
+
+<div align="center">
+  <a href="https://discord.com/users/993423120658604133">
+    <img src="https://lanyard.cnrad.dev/api/993423120658604133?bg=474B50" alt="Discord Presence">
+  </a>
+</div>
