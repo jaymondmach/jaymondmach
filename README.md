@@ -36,17 +36,18 @@
 
 # 💻 Github Stat's
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaymondmach&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaymondmach&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="1100">
 </div>
 
 
 # 💻 Discord
 <div> 
   <a href="https://discord.com/users/993423120658604133">
-    <img src="https://lanyard.cnrad.dev/api/993423120658604133?bg=474B50" alt="Discord Presence" width="465">
+    <img src="https://lanyard.cnrad.dev/api/993423120658604133?bg=474B50" alt="Discord Presence" width="1100">
   </a>
 </div>
 
 # 💻 Github Calender
-![image](https://github.com/user-attachments/assets/05bc8b57-3926-4cc5-b0dc-e15cb92fdc13)
+<img src="https://github.com/user-attachments/assets/05bc8b57-3926-4cc5-b0dc-e15cb92fdc13" width="1100" />
+
 
