@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jaymond
 👨🏻‍💻 Frontend Web Developer</br>
 👨🏻‍🎓 Studying Computer Info Tech at <a href="https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/#overview">British Columbia Institute of Technology</a>, Vancouver BC</br>
-🎮 I like to play video games on my free time. Some games I enjoy are <a href="https://playvalorant.com/en-us/">VALORANT</a>, and <a href="https://www.leagueoflegends.com/en-us/">League of Legends</a></br>
+🎮 I like to play video games on my free time.</br>
 💭 I have a great desire to learn and build Frontend Web Applications</br>
 
 
